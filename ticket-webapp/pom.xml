@@ -23,6 +23,16 @@
   </properties>
 
   <dependencies>
+	  <!-- ===== Modules ===== -->
+        <dependency>
+            <groupId>org.exemple.demo</groupId>
+            <artifactId>ticket-business</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.exemple.demo</groupId>
+            <artifactId>ticket-model</artifactId>
+        </dependency>
+    
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>

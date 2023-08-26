@@ -14,7 +14,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
     <property name="sun.boot.library.path" value="C:\Users\marie\ENV-DEV\Java\jdk-17.0.8+7\bin"/>
-    <property name="sun.java.command" value="C:\Users\marie\AppData\Local\Temp\surefire7349025744667132723\surefirebooter-20230826170223280_9.jar C:\Users\marie\AppData\Local\Temp\surefire7349025744667132723 2023-08-26T17-02-21_249-jvmRun1 surefire-20230826170223280_7tmp surefire_2-20230826170223280_8tmp"/>
+    <property name="sun.java.command" value="C:\Users\marie\AppData\Local\Temp\surefire16588354878721488095\surefirebooter-20230826173140010_9.jar C:\Users\marie\AppData\Local\Temp\surefire16588354878721488095 2023-08-26T17-31-38_761-jvmRun1 surefire-20230826173140010_7tmp surefire_2-20230826173140010_8tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\marie\Documents\Projet Eclipse Java\Organisez-Packagez-Projet-Maven-2-Ticket-App-Web-Multi-Tiers\ticket-business\target\test-classes;C:\Users\marie\Documents\Projet Eclipse Java\Organisez-Packagez-Projet-Maven-2-Ticket-App-Web-Multi-Tiers\ticket-business\target\classes;C:\Users\marie\Documents\Projet Eclipse Java\Organisez-Packagez-Projet-Maven-2-Ticket-App-Web-Multi-Tiers\ticket-consumer\target\ticket-consumer-1.0-SNAPSHOT.jar;C:\Users\marie\Documents\Projet Eclipse Java\Organisez-Packagez-Projet-Maven-2-Ticket-App-Web-Multi-Tiers\ticket-model\target\ticket-model-1.0-SNAPSHOT.jar;C:\Users\marie\ENV-DEV\Maven\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\marie\AppData\Local\Temp\surefire7349025744667132723\surefirebooter-20230826170223280_9.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\marie\AppData\Local\Temp\surefire16588354878721488095\surefirebooter-20230826173140010_9.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
     <property name="java.runtime.version" value="17.0.8+7"/>
@@ -55,5 +55,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testApp" classname="org.exemple.demo.business.AppTest" time="0.001"/>
+  <testcase name="testApp" classname="org.exemple.demo.business.AppTest" time="0.0"/>
 </testsuite>
